@@ -1,0 +1,6 @@
+{
+  "name": "Kebumen International Container Terminal (KICT) - TOS",
+  "description": "Sistem Operasi Terminal Peti Kemas (TOS) modern Kebumen International Container Terminal terintegrasi real-time dengan Yard Planning, Gate Automation, Berth Planning, Equipment Tracking, e-EIR, dan Billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
